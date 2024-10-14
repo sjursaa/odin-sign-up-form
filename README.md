@@ -9,8 +9,6 @@ first project in the intermediate html/css course. as well as the fullstack java
 
 # requirements/roadmap:
 
-- TODO: setup link to reference image.
-
 ## step 2: asset gathering
 
 - TODO: find a background image (unsplash)
@@ -18,3 +16,39 @@ first project in the intermediate html/css course. as well as the fullstack java
 - TODO: find a logo for the image sidebar
 
 ## step 3: get started for reals
+
+- TODO: Implement html (1)
+- TODO: Implement css (2)
+
+### Image section
+
+- TODO: add background image
+- TODO: add credit to background image creator
+- TODO: add a logo
+- TODO: add a custom font header-type thing
+- TODO: add transparent banner between background photo and header
+
+### Hero section
+
+- TODO: add paragraph
+- TODO: add another brief text section
+- TODO: add some cursive words
+
+### Sign up form section
+
+- TODO: add header
+- TODO: add form
+
+#### Form-contents:
+
+- FirstName
+- LastName
+- Email
+- Phone number
+- password
+- repeat/confirm password
+
+### button section
+
+- TODO: add create account button
+- TODO: already have an account? + link to login
