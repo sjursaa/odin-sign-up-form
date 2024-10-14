@@ -6,6 +6,12 @@ body {
 }
 
 /* image-section */
+img {
+  /* height: auto; */
+  /* width: 600px; */
+  height: 100vh;
+  width: auto;
+}
 
 /* rest-section */
 .rest-section {
