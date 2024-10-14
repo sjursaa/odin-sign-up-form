@@ -1,3 +1,20 @@
-h1 {
-  color: red;
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
+
+/* image-section */
+
+/* rest-section */
+.rest-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+/* hero-section  */
+
+/* form-section  */
+
+/* button section */
