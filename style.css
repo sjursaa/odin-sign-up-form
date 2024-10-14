@@ -17,5 +17,8 @@ body {
 
 /* form-section  */
 /* TODO: Add wrapping around two fields */
+.form-section {
+  width: 700px;
+}
 
 /* button section */
