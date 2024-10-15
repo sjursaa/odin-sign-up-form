@@ -1,8 +1,11 @@
 body {
+  /* TODO: load proper font used for whole thing */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   margin: 0;
+  font-family: roboto, sans-serif;
+  font-size: 1.1em;
 }
 
 @font-face {
