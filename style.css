@@ -58,7 +58,6 @@ h1 {
 .hero-section,
 .form-section,
 .button-section {
-  /* TODO: make each section be 33% of the overall height */
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -75,10 +74,23 @@ h1 {
   width: 800px;
 }
 
+form {
+  margin: 2px;
+}
+
+fieldset div {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
 input,
 label {
-  margin: 15px;
+  margin: 5px;
+  /* width: 30%; */
 }
+
+input
 
 /* button section */
 .button-section {
