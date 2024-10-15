@@ -6,6 +6,12 @@ body {
 }
 
 /* image-section */
+/* TODO: make image section, same size as background image */
+/* .image-section { */
+/*   height: 100vh; */
+/*   width: auto; */
+/* } */
+
 img {
   /* height: auto; */
   /* width: 600px; */
@@ -19,12 +25,13 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
+  width: 200vh;
 }
 
 .hero-section,
 .form-section,
 .button-section {
-  /* each section should be 33% of the overall height */
+  /* TODO: make each section be 33% of the overall height */
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -37,7 +44,7 @@ img {
 /* form-section  */
 /* TODO: Add wrapping around two fields */
 .form-section {
-  width: 700px;
+  width: 800px;
 }
 
 input,
