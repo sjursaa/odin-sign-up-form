@@ -38,8 +38,7 @@ h1 {
   margin-top: 30vh;
   padding-left: 20vh;
   padding-right: 20vh;
-  /* TODO: make background transparent-ish */
-  background: black;
+  background: rgb(0 0 0 / 40%);
 }
 
 .logo {
