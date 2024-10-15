@@ -21,20 +21,9 @@ h1 {
   width: auto;
   background-color: blue;
   background: url(image.jpg);
-  background-size: contain;
+  background-size: 100vh auto;
   color: white;
 }
-
-/* img { */
-/*   /* height: auto; */
-*/
-/*   /* width: 600px; */
-*/
-/*   height: 100vh; */
-/*   width: auto; */
-/*   /* comment */
-*/
-/* } */
 
 /* rest-section */
 .rest-section {
