@@ -40,6 +40,11 @@ img {
   width: 700px;
 }
 
+input,
+label {
+  margin: 15px;
+}
+
 /* button section */
 .button-section {
   background-color: lightgray;
