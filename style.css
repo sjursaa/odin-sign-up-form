@@ -20,15 +20,21 @@ h1 {
   height: 100vh;
   width: auto;
   background-color: blue;
+  background: url(image.jpg);
+  background-size: contain;
+  color: white;
 }
 
-img {
-  /* height: auto; */
-  /* width: 600px; */
-  height: 100vh;
-  width: auto;
-  /* comment */
-}
+/* img { */
+/*   /* height: auto; */
+*/
+/*   /* width: 600px; */
+*/
+/*   height: 100vh; */
+/*   width: auto; */
+/*   /* comment */
+*/
+/* } */
 
 /* rest-section */
 .rest-section {
