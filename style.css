@@ -50,7 +50,8 @@ h1 {
 .rest-section {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
+  height: 100vh;
   width: 200vh;
 }
 
@@ -58,12 +59,13 @@ h1 {
 .form-section,
 .button-section {
   /* TODO: make each section be 33% of the overall height */
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 /* hero-section  */
 .hero-section {
+  padding-top: 150px;
   background-color: lightgray;
 }
 
@@ -81,4 +83,5 @@ label {
 /* button section */
 .button-section {
   background-color: lightgray;
+  padding-bottom: 150px;
 }
