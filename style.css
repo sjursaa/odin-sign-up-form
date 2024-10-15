@@ -23,6 +23,25 @@ h1 {
   background: url(image.jpg);
   background-size: 100vh auto;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30vh;
+  padding-left: 20vh;
+  padding-right: 20vh;
+  /* TODO: make background transparent-ish */
+  background: black;
+}
+
+.logo {
+  height: 15vh;
+  width: auto;
 }
 
 /* rest-section */
