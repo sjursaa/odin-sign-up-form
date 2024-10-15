@@ -15,7 +15,6 @@ h1 {
 }
 
 /* image-section */
-/* TODO: make image section, same size as background image */
 .image-section {
   height: 100vh;
   width: auto;
@@ -32,6 +31,7 @@ h1 {
 .logo-container {
   display: flex;
   flex-direction: row;
+  align-items: center;
   margin-top: 30vh;
   padding-left: 20vh;
   padding-right: 20vh;
