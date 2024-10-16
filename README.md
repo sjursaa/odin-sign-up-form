@@ -24,7 +24,9 @@ First project in the intermediate HTML/CSS course, as well as the fullstack Java
 
 - TODO: add validation to password boxes
 - TODO: cover up text input (??) (\*\*\*\*)
+- TODO: add shadow to form-section div
 
 ### button section
 
 - TODO: style button properly
+- TODO: style link w/ same color as button
