@@ -69,7 +69,6 @@ h1 {
 }
 
 /* form-section  */
-/* TODO: Add wrapping around two fields */
 .form-section {
   width: 800px;
 }
@@ -97,7 +96,17 @@ label {
   /* width: 30%; */
 }
 
-input
+input:invalid {
+  border-color: red;
+}
+
+input:valid {
+  border-color: green;
+}
+
+input {
+  border-radius: 5px;
+}
 
 /* button section */
 .button-section {
