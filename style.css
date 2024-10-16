@@ -113,3 +113,8 @@ input {
   background-color: lightgray;
   padding-bottom: 150px;
 }
+
+button {
+  background-color: green;
+  color: white;
+}
