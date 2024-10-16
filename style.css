@@ -81,7 +81,14 @@ form {
 fieldset div {
   display: flex;
   flex-direction: column;
-  width: 30%;
+  /* width: 30%; */
+}
+
+.name-section,
+.contact-section,
+.password-section {
+  display: flex;
+  flex-direction: row;
 }
 
 input,
