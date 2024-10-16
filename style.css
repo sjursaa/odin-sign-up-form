@@ -100,8 +100,8 @@ input:invalid {
   border-color: red;
 }
 
-input:valid {
-  border-color: green;
+input:focus {
+  border-color: blue;
 }
 
 input {
