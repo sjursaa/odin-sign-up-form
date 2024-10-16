@@ -12,6 +12,8 @@ First project in the intermediate HTML/CSS course, as well as the fullstack Java
 
 ## Step 4: remaining stuff to do b4 submitting
 
+- TODO: change uses of "green" to a better green color (global)
+
 ### Image section
 
 - TODO: add credit to background image creator, (clickable links)
@@ -22,11 +24,5 @@ First project in the intermediate HTML/CSS course, as well as the fullstack Java
 
 ### Sign up form section
 
-- TODO: add validation to password boxes
 - TODO: cover up text input (??) (\*\*\*\*)
 - TODO: add shadow to form-section div
-
-### button section
-
-- TODO: style button properly
-- TODO: style link w/ same color as button
