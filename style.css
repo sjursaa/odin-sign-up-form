@@ -118,3 +118,8 @@ button {
   background-color: green;
   color: white;
 }
+
+.button-section a {
+  color: green;
+  text-decoration: 0;
+}
