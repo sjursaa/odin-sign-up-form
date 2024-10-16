@@ -1,6 +1,6 @@
 # Sign up form
 
-first project in the intermediate html/css course. as well as the fullstack javascript path (Odin)
+First project in the intermediate HTML/CSS course, as well as the fullstack JavaScript path (Odin)
 
 # Links
 
@@ -8,48 +8,23 @@ first project in the intermediate html/css course. as well as the fullstack java
 - [assignment-text](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form)
 - [actual page](https://sjursaa.github.io/odin-sign-up-form)
 
-# requirements/roadmap:
+# Requirements/Roadmap:
 
-## step 2: asset gathering
-
-- TODO: find a background image (unsplash)
-- TODO: pick an external font for the logo section
-- TODO: find a logo for the image sidebar
-
-## step 3: get started for reals
-
-- TODO: Implement html (1)
-- TODO: Implement css (2)
+## Step 4: remaining stuff to do b4 submitting
 
 ### Image section
 
-- TODO: add background image
-- TODO: add credit to background image creator
-- TODO: add a logo
-- TODO: add a custom font header-type thing
-- TODO: add transparent banner between background photo and header
+- TODO: add credit to background image creator, (clickable links)
 
 ### Hero section
 
-- TODO: add paragraph
-- TODO: add another brief text section
-- TODO: add some cursive words
+- TODO: correct font size
 
 ### Sign up form section
 
-- TODO: add header
-- TODO: add form
-
-#### Form-contents:
-
-- FirstName
-- LastName
-- Email
-- Phone number
-- password
-- repeat/confirm password
+- TODO: add validation to password boxes
+- TODO: cover up text input (??) (\*\*\*\*)
 
 ### button section
 
-- TODO: add create account button
-- TODO: already have an account? + link to login
+- TODO: style button properly
